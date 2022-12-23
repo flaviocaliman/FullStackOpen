@@ -1,2 +1,2 @@
 # FullStackOpen
- Curso da University of Helsinki
+ University of Helsinki
