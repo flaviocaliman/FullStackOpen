@@ -1,0 +1,1 @@
+In this part, we will show (depicted as a sequence diagrams) the chain of events caused by opening pages and and note's create.
